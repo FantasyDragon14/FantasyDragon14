@@ -1,8 +1,8 @@
 ### Whoa, there's somebody checking out my profile!
 
-![Cool gif](https://fantasydragon.xyz/buttons/fantasydragon14-button_cyber)
-![Cool gif](https://fantasydragon.xyz/buttons/fantasydragon14-button_den)
-![Cool gif](https://fantasydragon.xyz/buttons/fantasydragon14-button_vaporwave)
+![Cool gif](http://fantasydragon.xyz/buttons/fantasydragon14-button_cyber)
+![Cool gif](http://fantasydragon.xyz/buttons/fantasydragon14-button_den)
+![Cool gif](http://fantasydragon.xyz/buttons/fantasydragon14-button_vaporwave)
 
 look at [my website!](https://fantasydragon.xyz)
 
